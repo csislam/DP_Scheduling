@@ -1,4 +1,5 @@
 # DP_Scheduling in Litmus-RT
+<img width="1052" height="797" alt="image" src="https://github.com/user-attachments/assets/12bf9521-0bb1-42f3-90de-ef7e73ac5bb5" />
 
 This repository contains research and implementation related to **Dual Priority Scheduling (DP_Scheduling)** within the [Litmus-RT](https://github.com/LITMUS-RT/litmus-rt) framework. The project explores how **Dual Priority Scheduling** can enhance the **predictability, efficiency, and performance** of real-time systems.
 
