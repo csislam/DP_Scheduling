@@ -75,11 +75,17 @@ Results: Showed measurable improvements in response times and deadline adherence
 bash
 Copy code
 DP_Scheduling/
+
 │── src/                  # Source code for DP_Scheduling integration
+
 │── patches/              # Kernel patches for Litmus-RT
+
 │── experiments/          # Scripts & configs for benchmarking
+
 │── docs/                 # Research documentation & notes
+
 │── results/              # Experimental outputs and analysis
+
 │── README.md             # Project overview (this file)
 
 📚 References
